@@ -1,4 +1,6 @@
 // my mod of https://github.com/Juniorchen2012/scriptable/blob/master/progress.js
+// this is to track reading using reminders on iOS. It's best when used in tandem with GoodTask, Shortcuts and a template for variables held in the notes field of your book reminders...
+// #inprogress = reading right now; #reading = on the reading list; #to_read = ...obvious, no...? ;)
 
 // const width=125 // for small widget
 const width=275
